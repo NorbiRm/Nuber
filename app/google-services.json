@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "977073569267",
+    "firebase_url": "https://nuber-f27b1.firebaseio.com",
+    "project_id": "nuber-f27b1",
+    "storage_bucket": "nuber-f27b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977073569267:android:4222c2e9ec235cbe",
+        "android_client_info": {
+          "package_name": "com.example.nuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977073569267-cmqilhv3uiigpe9m6hnrcfs3oa9adifn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nuber",
+            "certificate_hash": "ccc8e9b8165c7b592c3e1be0b6ac070e581323a7"
+          }
+        },
+        {
+          "client_id": "977073569267-31dhs2gt8dqfvvenehh43q28bl7hvsen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhwHEgozEo4wMP0qIqRsZRNC5Ku23aIFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977073569267-31dhs2gt8dqfvvenehh43q28bl7hvsen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
